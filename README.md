@@ -54,4 +54,13 @@ Sebuah script **Roblox Auto Clicker** premium dan universal yang dibangun menggu
 
 ---
 
+## 🖥 Script:
+
+**Silahkan Copy dari Lua text ini!**
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KuroLabs-Inc/AutoClicker/main/autoclicker.lua"))()
+```
+---
+
 © 2026 **TheRkpyYT**. All rights reserved.
