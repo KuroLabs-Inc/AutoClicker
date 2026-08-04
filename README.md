@@ -45,4 +45,13 @@ Sebuah script **Roblox Auto Clicker** premium dan universal yang dibangun menggu
 > * **Eksklusivitas**: Script ini sepenuhnya berbasis modifikasi client-side dan ditujukan untuk mempermudah gameplay serta efisiensi waktu bermain Anda.
 
 ---
+
+## 🔓 Kunci Keysystem:
+
+* FREE_501T01K9lqw019lowo0100-end
+* FREE_70104UqpaYMlay02hol-end
+* FREE_I0uwnYLaKoalp90Dz0lK-end
+
+---
+
 © 2026 **TheRkpyYT**. All rights reserved.
